@@ -1,0 +1,196 @@
+{
+  "seed": 42,
+  "validation_strategy": "grouped normalized sources + StratifiedShuffleSplit(test_size=0.1, random_state=42)",
+  "aeda_sampling_strategy": "class-targeted random sampling with numpy Generator seed 42",
+  "aeda_generation_strategy": "official aeda_nlp/code/aeda.py insert_punctuation_marks with random seed 42",
+  "group_aeda_train_matches_official": true,
+  "counts": {
+    "baseline": 450,
+    "eda": 2700,
+    "aeda": 2700,
+    "eda_aeda": 2700,
+    "validation": 50,
+    "test": 1821
+  },
+  "shared_augmentation_fit_class_targets": {
+    "0": 1320,
+    "1": 1380
+  },
+  "aeda_candidate_class_targets": {
+    "1": 1536,
+    "0": 1464
+  },
+  "removals": {
+    "baseline_sources_due_to_test": {},
+    "eda_augmented_rows_due_to_validation_or_test": {},
+    "aeda_sources_due_to_validation_or_test": {
+      "punctuation_insensitive": 33,
+      "canonical": 4
+    },
+    "aeda_augmented_rows_due_to_validation_or_test": {},
+    "sequential_augmented_rows_due_to_validation_or_test": {}
+  },
+  "unique_rows_removed": {
+    "baseline_sources_due_to_test": 0,
+    "eda_augmented_rows_due_to_validation_or_test": 0,
+    "aeda_sources_due_to_validation_or_test": 33,
+    "aeda_augmented_rows_due_to_validation_or_test": 0,
+    "sequential_augmented_rows_due_to_validation_or_test": 0
+  },
+  "source_files": {
+    "baseline": {
+      "path": "../sst2_train_500.txt",
+      "sha256": "aa4a66ee3801944f3185d74f7bd1d4152203e5e3da0e1e1211b83dfe06b2596a"
+    },
+    "eda": {
+      "path": "../lol.txt",
+      "sha256": "89bef386db9da2e8c6ce676d3a97e24f3b30715146d14dde6c63ff027cd656c7"
+    },
+    "sequential": {
+      "path": "../aeda_lol.txt",
+      "sha256": "c8ab84cee058c8367b0fee4d012149bd28700be1da42f83939bdbf22eb9ff1b9"
+    },
+    "official_aeda_train": {
+      "path": "../../aeda_nlp_reference/data/train/sst2/train.txt",
+      "sha256": "1cd969d01ea6e90eb9285e008dc99e49187855bf58acce23c2e56f8cbc8b3af6"
+    },
+    "official_aeda_test": {
+      "path": "../../aeda_nlp_reference/data/test/sst2/test.txt",
+      "sha256": "dfd8a1cab54862d054ec68c3f16a0d8697df5ae5d0b0fd4fd4403889d9d30bc0"
+    }
+  },
+  "overlap_checks": [
+    {
+      "comparison": "original_500_sources_vs_test_before_filter",
+      "normalization": "canonical",
+      "unique_text_overlap": 0,
+      "action": "excluded from baseline source pool before split"
+    },
+    {
+      "comparison": "original_500_sources_vs_test_before_filter",
+      "normalization": "punctuation_insensitive",
+      "unique_text_overlap": 0,
+      "action": "excluded from baseline source pool before split"
+    },
+    {
+      "comparison": "official_aeda_sources_vs_test_before_filter",
+      "normalization": "canonical",
+      "unique_text_overlap": 2,
+      "action": "excluded before AEDA sampling"
+    },
+    {
+      "comparison": "official_aeda_sources_vs_test_before_filter",
+      "normalization": "punctuation_insensitive",
+      "unique_text_overlap": 2,
+      "action": "excluded before AEDA sampling"
+    },
+    {
+      "comparison": "official_aeda_sources_vs_validation_before_filter",
+      "normalization": "canonical",
+      "unique_text_overlap": 1,
+      "action": "excluded before AEDA sampling"
+    },
+    {
+      "comparison": "official_aeda_sources_vs_validation_before_filter",
+      "normalization": "punctuation_insensitive",
+      "unique_text_overlap": 30,
+      "action": "excluded before AEDA sampling"
+    },
+    {
+      "comparison": "baseline_train_vs_validation",
+      "normalization": "canonical",
+      "unique_text_overlap": 0,
+      "action": "must be zero"
+    },
+    {
+      "comparison": "baseline_train_vs_validation",
+      "normalization": "punctuation_insensitive",
+      "unique_text_overlap": 0,
+      "action": "must be zero"
+    },
+    {
+      "comparison": "validation_vs_test",
+      "normalization": "canonical",
+      "unique_text_overlap": 0,
+      "action": "must be zero"
+    },
+    {
+      "comparison": "validation_vs_test",
+      "normalization": "punctuation_insensitive",
+      "unique_text_overlap": 0,
+      "action": "must be zero"
+    },
+    {
+      "comparison": "eda_train_vs_validation",
+      "normalization": "canonical",
+      "unique_text_overlap": 0,
+      "action": "must be zero"
+    },
+    {
+      "comparison": "eda_train_vs_validation",
+      "normalization": "punctuation_insensitive",
+      "unique_text_overlap": 0,
+      "action": "must be zero"
+    },
+    {
+      "comparison": "eda_train_vs_test",
+      "normalization": "canonical",
+      "unique_text_overlap": 0,
+      "action": "must be zero"
+    },
+    {
+      "comparison": "eda_train_vs_test",
+      "normalization": "punctuation_insensitive",
+      "unique_text_overlap": 0,
+      "action": "must be zero"
+    },
+    {
+      "comparison": "aeda_train_vs_validation",
+      "normalization": "canonical",
+      "unique_text_overlap": 0,
+      "action": "must be zero"
+    },
+    {
+      "comparison": "aeda_train_vs_validation",
+      "normalization": "punctuation_insensitive",
+      "unique_text_overlap": 0,
+      "action": "must be zero"
+    },
+    {
+      "comparison": "aeda_train_vs_test",
+      "normalization": "canonical",
+      "unique_text_overlap": 0,
+      "action": "must be zero"
+    },
+    {
+      "comparison": "aeda_train_vs_test",
+      "normalization": "punctuation_insensitive",
+      "unique_text_overlap": 0,
+      "action": "must be zero"
+    },
+    {
+      "comparison": "sequential_train_vs_validation",
+      "normalization": "canonical",
+      "unique_text_overlap": 0,
+      "action": "must be zero"
+    },
+    {
+      "comparison": "sequential_train_vs_validation",
+      "normalization": "punctuation_insensitive",
+      "unique_text_overlap": 0,
+      "action": "must be zero"
+    },
+    {
+      "comparison": "sequential_train_vs_test",
+      "normalization": "canonical",
+      "unique_text_overlap": 0,
+      "action": "must be zero"
+    },
+    {
+      "comparison": "sequential_train_vs_test",
+      "normalization": "punctuation_insensitive",
+      "unique_text_overlap": 0,
+      "action": "must be zero"
+    }
+  ]
+}

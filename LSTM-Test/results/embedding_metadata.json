@@ -1,0 +1,8 @@
+{
+  "glove_path": "data/embeddings/glove.6B.300d.txt",
+  "dimension": 300,
+  "vocabulary_size": 9583,
+  "pretrained_vector_count": 9362,
+  "pretrained_vector_coverage": 0.9771422607243503,
+  "vocabulary_built_from": "union of the four actual fitting datasets only"
+}

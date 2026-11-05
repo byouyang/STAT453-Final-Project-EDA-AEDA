@@ -1,0 +1,7 @@
+dataset,samples,negative,positive
+baseline,450,220,230
+eda,2700,1320,1380
+aeda,2700,1320,1380
+eda_aeda,2700,1320,1380
+validation,50,24,26
+test,1821,912,909

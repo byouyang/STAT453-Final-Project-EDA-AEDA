@@ -1,0 +1,36 @@
+{
+  "strategy": "Byte-for-byte reuse of archived CNN fitting and evaluation splits",
+  "files": {
+    "baseline": {
+      "source": "../CNN-Test/results/prepared/baseline_train.jsonl",
+      "sha256": "7ce1537b079758ff508366ac4a94b5959ef1b6604d7168ec458232678930f5c2",
+      "rows": 450
+    },
+    "eda": {
+      "source": "../CNN-Test/results/prepared/eda_train.jsonl",
+      "sha256": "ea52abc724f52c7509585691fb910e2060d5ad964143e9de897b12b2fa33fc53",
+      "rows": 2700
+    },
+    "aeda": {
+      "source": "../CNN-Test/results/prepared/aeda_train.jsonl",
+      "sha256": "a7f4ded4a622f8e1c119e47adb62e4aa1d26c00ac7cd2d2871d68c2057b1fa1e",
+      "rows": 2700
+    },
+    "eda_aeda": {
+      "source": "../CNN-Test/results/prepared/eda_aeda_train.jsonl",
+      "sha256": "a5bf17dadf67c223ea60b9e5450f8362e8072eb077fc74aecf26f681c3fa12c9",
+      "rows": 2700
+    },
+    "validation": {
+      "source": "../CNN-Test/results/prepared/validation.jsonl",
+      "sha256": "2c2f1ea6096e214046a8c05954f8d35edb8eeb0cc75a3e077a6e212fe0c6c319",
+      "rows": 50
+    },
+    "test": {
+      "source": "../CNN-Test/results/prepared/test.jsonl",
+      "sha256": "c9b67611af1737c94d1e4a86ec247cffcfae86473f001d890ac297296da2b578",
+      "rows": 1821
+    }
+  },
+  "limitation": "AEDA uses a larger original source pool than the other conditions; this confound is retained to match CNN."
+}

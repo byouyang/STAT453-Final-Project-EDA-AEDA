@@ -1,0 +1,21 @@
+{
+  "seed": 42,
+  "device": "cpu",
+  "torch_version": "2.15.0+cpu",
+  "identical_data_to_cnn": true,
+  "architecture": "frozen GloVe 300d -> BiLSTM(64 per direction, full sequence) -> Dropout(0.5) -> BiLSTM(32 per direction, final states) -> Dropout(0.5) -> Dense(20, ReLU) -> 2 logits",
+  "lstm_hidden_sizes_per_direction": [
+    64,
+    32
+  ],
+  "bidirectional": true,
+  "dropout_after_each_lstm": 0.5,
+  "optimizer": "Adam",
+  "learning_rate": 0.001,
+  "loss": "CrossEntropyLoss",
+  "batch_size": 64,
+  "maximum_epochs": 30,
+  "early_stopping_patience": 3,
+  "max_sequence_length": 50,
+  "same_initial_state_checkpoint": "checkpoints/initial_state.pt"
+}
