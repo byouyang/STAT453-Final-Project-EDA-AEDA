@@ -1,0 +1,13 @@
+{
+  "seed": 42,
+  "device": "cpu",
+  "architecture": "frozen GloVe 300d -> Conv1D(128, kernel=5) -> global max pool -> Dense(20, ReLU) -> 2 logits",
+  "optimizer": "Adam",
+  "learning_rate": 0.001,
+  "loss": "CrossEntropyLoss",
+  "batch_size": 64,
+  "maximum_epochs": 30,
+  "early_stopping_patience": 3,
+  "max_sequence_length": 50,
+  "same_initial_state_checkpoint": "checkpoints/initial_state.pt"
+}

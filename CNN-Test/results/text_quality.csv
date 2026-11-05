@@ -1,0 +1,7 @@
+dataset,split,samples,tokens_before_padding,unseen_vocabulary_tokens,unembedded_tokens,unembedded_token_rate,truncated_samples,truncated_tokens,maximum_tokens_before_truncation,max_sequence_length
+Baseline,train,450,7428,0,22,0.0029617662897145933,0,0,45,50
+EDA,train,2700,44810,0,258,0.005757643383173399,1,1,51,50
+AEDA,train,2700,66579,0,137,0.002057705883236456,70,437,78,50
+EDA → AEDA,train,2700,52193,0,258,0.0049431916157339105,11,45,57,50
+Common,validation,50,981,89,91,0.09276248725790011,0,0,40,50
+Common,test,1821,37742,3011,3018,0.07996396587356261,5,29,60,50

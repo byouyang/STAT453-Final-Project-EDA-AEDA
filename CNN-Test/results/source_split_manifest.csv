@@ -1,0 +1,501 @@
+source_index,source_id,label,split,original_sentence
+1,baseline_source:1,1,train,neil burger here succeeded in making the mystery of four decades back the springboard for a more immediate mystery in the present 
+2,baseline_source:2,0,train,it is a visual rorschach test and i must have failed 
+4,baseline_source:4,0,train,scores no points for originality wit or intelligence 
+5,baseline_source:5,0,train,it would take a complete moron to foul up a screen adaptation of oscar wilde is classic satire 
+7,baseline_source:7,0,train,it is not the first time that director sara sugarman stoops to having characters drop their pants for laughs and not the last time she fails to provoke them 
+8,baseline_source:8,1,train,just the labour involved in creating the layered richness of the imagery in this chiaroscuro of madness and light is astonishing 
+9,baseline_source:9,1,train,matthew lillard is born to play shaggy 
+10,baseline_source:10,0,train,it is drab 
+11,baseline_source:11,1,train,the film has several strong performances 
+12,baseline_source:12,1,train,munch is screenplay is tenderly observant of his characters 
+14,baseline_source:14,1,train,a cruelly funny twist on teen comedy packed with inventive cinematic tricks and an ironically killer soundtrack
+15,baseline_source:15,0,train,predictably soulless techno tripe 
+16,baseline_source:16,1,train,tsai has a well deserved reputation as one of the cinema world is great visual stylists and in this film every shot enhances the excellent performances 
+17,baseline_source:17,0,train,some like it hot on the hardwood proves once again that a man in drag is not in and of himself funny 
+18,baseline_source:18,0,train,for a movie about the power of poetry and passion there is precious little of either 
+19,baseline_source:19,1,train,diggs and lathan are among the chief reasons brown sugar is such a sweet and sexy film 
+21,baseline_source:21,0,train,when the film ended i felt tired and drained and wanted to lie on my own deathbed for a while 
+22,baseline_source:22,0,train,contains the humor characterization poignancy and intelligence of a bad sitcom 
+23,baseline_source:23,0,train,a pretentious and ultimately empty examination of a sick and evil woman 
+24,baseline_source:24,1,train,i can easily imagine benigni is pinocchio becoming a christmas perennial 
+25,baseline_source:25,1,train,generates an enormous feeling of empathy for its characters 
+26,baseline_source:26,1,train,reggio is continual visual barrage is absorbing as well as thought provoking 
+27,baseline_source:27,0,train,spreads itself too thin leaving these actors as well as the members of the commune short of profound characterizations
+28,baseline_source:28,0,train,once again director chris columbus takes a hat in hand approach to rowling that stifles creativity and allows the film to drag on for nearly three hours 
+30,baseline_source:30,1,train,a whale of a good time for both children and parents seeking christian themed fun 
+31,baseline_source:31,0,train,there are plot holes big enough for shamu the killer whale to swim through 
+32,baseline_source:32,1,train,director andrew niccol demonstrates a wry understanding of the quirks of fame 
+33,baseline_source:33,1,train,a must for fans of british cinema if only because so many titans of the industry are along for the ride 
+34,baseline_source:34,0,train,though clearly well intentioned this cross cultural soap opera is painfully formulaic and stilted 
+35,baseline_source:35,0,train,that is because relatively nothing happens 
+36,baseline_source:36,0,train,novak contemplates a heartland so overwhelmed by its lack of purpose that it seeks excitement in manufactured high drama 
+37,baseline_source:37,0,train,utter mush conceited pap 
+39,baseline_source:39,0,train,disjointed parody 
+40,baseline_source:40,1,train,in fact it is quite fun in places 
+41,baseline_source:41,0,train,it can not be enjoyed even on the level that one enjoys a bad slasher flick primarily because it is dull 
+42,baseline_source:42,0,train,it is always disappointing when a documentary fails to live up to or offer any new insight into its chosen topic 
+43,baseline_source:43,0,train,in the era of the sopranos it feels painfully redundant and inauthentic 
+44,baseline_source:44,1,train,a hypnotic cyber hymn and a cruel story of youth culture 
+45,baseline_source:45,0,train,much of the cast is stiff or just plain bad 
+46,baseline_source:46,1,train,i ve yet to find an actual vietnam war combat movie actually produced by either the north or south vietnamese but at least now we ve got something pretty damn close 
+47,baseline_source:47,0,train,a bizarre piece of work with premise and dialogue at the level of kids television and plot threads as morose as teen pregnancy rape and suspected murder
+48,baseline_source:48,0,train,a documentary to make the stones weep as shameful as it is scary 
+49,baseline_source:49,0,train,there is got to be a more graceful way of portraying the devastation of this disease 
+50,baseline_source:50,1,train,and your reward will be a thoughtful emotional movie experience 
+51,baseline_source:51,1,train,brash intelligent and erotically perplexing haneke is portrait of an upper class austrian society and the suppression of its tucked away demons is uniquely felt with a sardonic jolt 
+52,baseline_source:52,0,train,it forces you to watch people doing unpleasant things to each other and themselves and it maintains a cool distance from its material that is deliberately unsettling 
+53,baseline_source:53,0,train,it is the element of condescension as the filmmakers look down on their working class subjects from their lofty perch that finally makes sex with strangers which opens today in the new york metropolitan area so distasteful 
+54,baseline_source:54,1,train,nothing short of a masterpiece and a challenging one 
+55,baseline_source:55,0,train,i just saw this movie well it is probably not accurate to call it a movie 
+56,baseline_source:56,0,train,a muted freak out
+57,baseline_source:57,0,train,there is an underlying old world sexism to monday morning that undercuts its charm 
+58,baseline_source:58,0,train,taken as a whole the tuxedo does nt add up to a whole lot 
+59,baseline_source:59,1,train,though the film is static its writer director is heart is in the right place his plea for democracy and civic action laudable 
+60,baseline_source:60,0,train,with mcconaughey in an entirely irony free zone and bale reduced mainly to batting his sensitive eyelids there is not enough intelligence wit or innovation on the screen to attract and sustain an older crowd 
+61,baseline_source:61,1,train,skin of man gets a few cheap shocks from its kids in peril theatrics but it also taps into the primal fears of young people trying to cope with the mysterious and brutal nature of adults 
+62,baseline_source:62,1,train,what it lacks in substance it makes up for in heart 
+63,baseline_source:63,1,train,like all great films about a life you never knew existed it offers much to absorb and even more to think about after the final frame 
+64,baseline_source:64,0,train,an average b movie with no aspirations to be anything more 
+65,baseline_source:65,1,train,standard guns versus martial arts cliche with little new added 
+66,baseline_source:66,1,train,a beautifully tooled action thriller about love and terrorism in korea 
+67,baseline_source:67,0,train,starts out with tremendous promise introducing an intriguing and alluring premise only to fall prey to a boatload of screenwriting cliches that sink it faster than a leaky freighter 
+68,baseline_source:68,0,train,hard core slasher aficionados will find things to like but overall the halloween series has lost its edge 
+69,baseline_source:69,1,train,a college story that works even without vulgarity sex scenes and cussing 
+70,baseline_source:70,0,train,insufferably naive 
+71,baseline_source:71,1,train,it is a strength of a documentary to disregard available bias especially as temptingly easy as it would have been with this premise 
+72,baseline_source:72,1,train,those with a modicum of patience will find in these characters foibles a timeless and unique perspective 
+73,baseline_source:73,0,train,its and pieces of the hot chick are so hilarious and schneider is performance is so fine it is a real shame that so much of the movie again as in the animal is a slapdash mess 
+74,baseline_source:74,1,train,there are some movies that hit you from the first scene and you know it is going to be a trip 
+75,baseline_source:75,1,train,it proves quite compelling as an intense brooding character study 
+76,baseline_source:76,0,train,a loud ugly irritating movie without any of its satirical salvos hitting a discernible target 
+77,baseline_source:77,0,train,you can taste it but there is no fizz 
+78,baseline_source:78,1,train,the quality of the art combined with the humor and intelligence of the script allow the filmmakers to present the biblical message of forgiveness without it ever becoming preachy or syrupy 
+79,baseline_source:79,0,train,the x potion gives the quickly named blossom bubbles and buttercup supernatural powers that include extraordinary strength and laser beam eyes which unfortunately do nt enable them to discern flimsy screenplays 
+80,baseline_source:80,1,train,rifkin is references are impeccable throughout 
+81,baseline_source:81,0,train,too bad none of it is funny 
+82,baseline_source:82,1,train,a gleefully grungy hilariously wicked black comedy 
+83,baseline_source:83,0,train,you leave the same way you came a few tasty morsels under your belt but no new friends 
+84,baseline_source:84,1,train,though it runs minutes safe conduct is anything but languorous 
+86,baseline_source:86,0,train,they crush each other under cars throw each other out windows electrocute and dismember their victims in full consciousness 
+87,baseline_source:87,0,train,in any case i would recommend big bad love only to winger fans who have missed her since is forget paris 
+88,baseline_source:88,1,train,as surreal as a dream and as detailed as a photograph as visually dexterous as it is at times imaginatively overwhelming 
+89,baseline_source:89,1,train,even if you do nt know the band or the album is songs by heart you will enjoy seeing how both evolve and you will also learn a good deal about the state of the music business in the st century 
+91,baseline_source:91,1,train,unpretentious charming quirky original
+92,baseline_source:92,0,train,a processed comedy chop suey 
+93,baseline_source:93,0,train,a sequel that is much too big for its britches 
+94,baseline_source:94,0,train,a complete waste of time 
+95,baseline_source:95,0,train,a well intentioned effort that is still too burdened by the actor is offbeat sensibilities for the earnest emotional core to emerge with any degree of accessibility 
+96,baseline_source:96,1,train,assayas ambitious sometimes beautiful adaptation of jacques chardonne is novel 
+98,baseline_source:98,0,train,guys say mean things and shoot a lot of bullets 
+99,baseline_source:99,0,train,a manipulative feminist empowerment tale thinly posing as a serious drama about spousal abuse 
+100,baseline_source:100,0,train,this movie is so bad that it is almost worth seeing because it is so bad 
+101,baseline_source:101,0,train,with a romantic comedy plotline straight from the ages this cinderella story does nt have a single surprise up its sleeve 
+102,baseline_source:102,1,train,and more than that it is an observant unfussily poetic meditation about identity and alienation 
+103,baseline_source:103,0,train,but it could have been worse 
+104,baseline_source:104,0,train,most viewers will wish there had been more of the queen and less of the damned 
+105,baseline_source:105,0,train,a science fiction pastiche so lacking in originality that if you stripped away its inspirations there would be precious little left 
+106,baseline_source:106,1,train,the pleasures that it does afford may be enough to keep many moviegoers occupied amidst some of the more serious minded concerns of other year end movies 
+107,baseline_source:107,0,train,as plain and pedestrian as catsup 
+108,baseline_source:108,0,train,every conceivable mistake a director could make in filming opera has been perpetrated here 
+109,baseline_source:109,1,train,more concerned with overall feelings broader ideas and open ended questions than concrete story and definitive answers soderbergh is solaris is a gorgeous and deceptively minimalist cinematic tone poem 
+110,baseline_source:110,0,train,no cute factor here not that i mind ugly the problem is he has no character loveable or otherwise 
+111,baseline_source:111,1,train,filmmaker stacy peralta has a flashy editing style that does nt always jell with sean penn is monotone narration but he respects the material without sentimentalizing it 
+112,baseline_source:112,1,train,you do nt need to be a hip hop fan to appreciate scratch and that is the mark of a documentary that works 
+113,baseline_source:113,0,train,i was trying to decide what annoyed me most about god is great i m not and then i realized that i just did nt care 
+114,baseline_source:114,1,train,metaphors abound but it is easy to take this film at face value and enjoy its slightly humorous and tender story 
+115,baseline_source:115,1,train,a comedy that swings and jostles to the rhythms of life 
+116,baseline_source:116,0,train,if you re looking to rekindle the magic of the first film you ll need a stronger stomach than us 
+117,baseline_source:117,1,train,a modestly made but profoundly moving documentary 
+118,baseline_source:118,0,train,pc stability notwithstanding the film suffers from a simplistic narrative and a pat fairy tale conclusion 
+119,baseline_source:119,0,train,has about th the fun of its spry predecessor but it is a rushed slapdash sequel for the sake of a sequel with less than half the plot and ingenuity 
+120,baseline_source:120,1,train,remarkable for its intelligence and intensity 
+121,baseline_source:121,1,train,i do nt know if frailty will turn bill paxton into an a list director but he can rest contentedly with the knowledge that he is made at least one damn fine horror movie 
+122,baseline_source:122,1,train,one of the year is most weirdly engaging and unpredictable character pieces 
+123,baseline_source:123,0,train,shot like a postcard and overacted with all the boozy self indulgence that brings out the worst in otherwise talented actors 
+124,baseline_source:124,0,train,barney is ideas about creation and identity do nt really seem all that profound at least by way of what can be gleaned from this three hour endurance test built around an hour is worth of actual material 
+125,baseline_source:125,1,train,delia greta and paula rank as three of the most multilayered and sympathetic female characters of the year 
+126,baseline_source:126,0,train,enough is not a bad movie just mediocre 
+127,baseline_source:127,0,train,but the cinematography is cloudy the picture making becalmed 
+129,baseline_source:129,0,train,slap me i saw this movie 
+130,baseline_source:130,1,train,for those of an indulgent slightly sunbaked and summery mind sex and lucia may well prove diverting enough 
+131,baseline_source:131,0,train,reign of fire never comes close to recovering from its demented premise but it does sustain an enjoyable level of ridiculousness 
+133,baseline_source:133,1,train,try as you might to resist if you ve got a place in your heart for smokey robinson this movie will worm its way there 
+134,baseline_source:134,0,train,low rent from frame one 
+135,baseline_source:135,1,train,we know the plot is a little crazy but it held my interest from start to finish 
+136,baseline_source:136,0,train,dull a road trip movie that is surprisingly short of both adventure and song 
+137,baseline_source:137,0,train,the colorful masseur wastes its time on mood rather than riding with the inherent absurdity of ganesh is rise up the social ladder 
+139,baseline_source:139,1,train,we ve seen it all before in one form or another but director hoffman with great help from kevin kline makes us care about this latest reincarnation of the world is greatest teacher 
+140,baseline_source:140,1,train,watching this gentle mesmerizing portrait of a man coming to terms with time you barely realize your mind is being blown 
+141,baseline_source:141,1,train,at its most basic this cartoon adventure is that wind in the hair exhilarating 
+142,baseline_source:142,1,train,the charms of the lead performances allow us to forget most of the film is problems 
+143,baseline_source:143,0,train,hampered no paralyzed by a self indulgent script that aims for poetry and ends up sounding like satire 
+144,baseline_source:144,1,train,a sloppy amusing comedy that proceeds from a stunningly unoriginal premise 
+145,baseline_source:145,1,train,the film aims to be funny uplifting and moving sometimes all at once 
+146,baseline_source:146,1,train,the story is inspiring ironic and revelatory of just how ridiculous and money oriented the record industry really is 
+147,baseline_source:147,0,train,like a fish that is lived too long austin powers in goldmember has some unnecessary parts and is kinda wrong in places 
+148,baseline_source:148,1,train,what distinguishes time of favor from countless other thrillers is its underlying concern with the consequences of words and with the complicated emotions fueling terrorist acts 
+149,baseline_source:149,1,train,an entertaining if ultimately minor thriller 
+150,baseline_source:150,1,train,just when you think that every possible angle has been exhausted by documentarians another new film emerges with yet another remarkable yet shockingly little known perspective 
+151,baseline_source:151,0,train,it could have been something special but two things drag it down to mediocrity director clare peploe is misunderstanding of marivaux is rhythms and mira sorvino is limitations as a classical actress 
+152,baseline_source:152,1,train,a summer entertainment adults can see without feeling embarrassed but it could have been more 
+153,baseline_source:153,0,train,fails in making this character understandable in getting under her skin in exploring motivation well before the end the film grows as dull as its characters about whose fate it is hard to care 
+154,baseline_source:154,0,train,turns a potentially interesting idea into an excruciating film school experience that plays better only for the film is publicists or for people who take as many drugs as the film is characters
+155,baseline_source:155,1,train,it is a wonderful sobering heart felt drama 
+156,baseline_source:156,0,train,the movie does nt think much of its characters its protagonist or of us 
+157,baseline_source:157,0,train,it is too self important and plodding to be funny and too clipped and abbreviated to be an epic 
+158,baseline_source:158,1,train,this surreal gilliam esque film is also a troubling interpretation of ecclesiastes 
+159,baseline_source:159,0,train,the most offensive thing about the movie is that hollywood expects people to pay to see it 
+160,baseline_source:160,1,train,in the end the film is less the cheap thriller you d expect than it is a fairly revealing study of its two main characters damaged goods people whose orbits will inevitably and dangerously collide 
+161,baseline_source:161,0,train,the entire movie is about a boring sad man being boring and sad 
+163,baseline_source:163,0,train,despite an impressive roster of stars and direction from kathryn bigelow the weight of water is oppressively heavy 
+164,baseline_source:164,0,train,when your subject is illusion versus reality should nt the reality seem at least passably real 
+165,baseline_source:165,1,train,khouri manages with terrific flair to keep the extremes of screwball farce and blood curdling family intensity on one continuum 
+166,baseline_source:166,1,train,it is a masterpiece 
+167,baseline_source:167,1,train,romantic comedy and dogme filmmaking may seem odd bedfellows but they turn out to be delightfully compatible here 
+168,baseline_source:168,1,train,about schmidt belongs to nicholson 
+169,baseline_source:169,1,train,macdowell gives give a solid anguished performance that eclipses nearly everything else she is ever done 
+170,baseline_source:170,0,train,wewannour money back actually 
+171,baseline_source:171,1,train,it is a clear eyed portrait of an intensely lived time filled with nervous energy moral ambiguity and great uncertainties 
+172,baseline_source:172,0,train,not exactly the bees knees
+173,baseline_source:173,1,train,michael gerbosi is script is economically packed with telling scenes 
+175,baseline_source:175,0,train,that the true story by which all the queen is men is allegedly inspired was a lot funnier and more deftly enacted than what is been cobbled together onscreen 
+176,baseline_source:176,0,train,the end result is like cold porridge with only the odd enjoyably chewy lump 
+178,baseline_source:178,0,train,forget the psychology study of romantic obsession and just watch the procession of costumes in castles and this wo nt seem like such a bore 
+179,baseline_source:179,0,train,the kind of film that leaves you scratching your head in amazement over the fact that so many talented people could participate in such an ill advised and poorly executed idea 
+180,baseline_source:180,0,train,off the hook is overlong and not well acted but credit writer producer director adam watstein with finishing it at all 
+181,baseline_source:181,0,train,at the very least if you do nt know anything about derrida when you walk into the theater you wo nt know much more when you leave 
+182,baseline_source:182,1,train,sly sophisticated and surprising 
+183,baseline_source:183,1,train,a new film from bill plympton the animation master is always welcome 
+185,baseline_source:185,0,train,more tiring than anything 
+186,baseline_source:186,1,train,his work with actors is particularly impressive 
+187,baseline_source:187,0,train,sunk by way too much indulgence of scene chewing teeth gnashing actorliness 
+188,baseline_source:188,1,train,it is an unstinting look at a collaboration between damaged people that may or may not qual
+191,baseline_source:191,0,train,the drama was so uninspiring that even a story immersed in love lust and sin could nt keep my attention 
+192,baseline_source:192,0,train,due to some script weaknesses and the casting of the director is brother the film trails off into inconsequentiality 
+194,baseline_source:194,0,train,i did nt smile 
+195,baseline_source:195,1,train,for all its problems the lady and the duke surprisingly manages never to grow boring which proves that rohmer still has a sense of his audience 
+196,baseline_source:196,0,train,it is a drag how nettelbeck sees working women or at least this working woman for whom she shows little understanding 
+197,baseline_source:197,0,train,the script is a disaster with cloying messages and irksome characters 
+198,baseline_source:198,0,train,in its best moments resembles a bad high school production of grease without benefit of song 
+199,baseline_source:199,1,train,it is a fine focused piece of work that reopens an interesting controversy and never succumbs to sensationalism 
+200,baseline_source:200,1,train,a triumph of pure craft and passionate heart 
+202,baseline_source:202,1,train,the emotions are raw and will strike a nerve with anyone who is ever had family trauma 
+203,baseline_source:203,1,train,it deserves to be seen by anyone with even a passing interest in the events shaping the world beyond their own horizons 
+204,baseline_source:204,0,train,two bit potboiler 
+205,baseline_source:205,0,train,the movie directed by mick jackson leaves no cliche unturned from the predictable plot to the characters straight out of central casting 
+206,baseline_source:206,1,train,fun and nimble 
+207,baseline_source:207,0,train,big mistake 
+208,baseline_source:208,1,train,the film boasts dry humor and jarring shocks plus moments of breathtaking mystery 
+209,baseline_source:209,1,train,you may feel compelled to watch the film twice or pick up a book on the subject 
+210,baseline_source:210,1,train,west coast rap wars this modern mob music drama never fails to fascinate 
+211,baseline_source:211,1,train,children christian or otherwise deserve to hear the full story of jonah is despair in all its agonizing catch glory even if they spend years trying to comprehend it 
+212,baseline_source:212,0,train,if they broke out into elaborate choreography singing and finger snapping it might have held my attention but as it stands i kept looking for the last exit from brooklyn 
+213,baseline_source:213,1,train,i could nt recommend this film more 
+215,baseline_source:215,0,train,their parents would do well to cram earplugs in their ears and put pillowcases over their heads for minutes 
+216,baseline_source:216,1,train,rewarding 
+217,baseline_source:217,1,train,upsetting and thought provoking the film has an odd purity that does nt bring you into the characters so much as it has you study them 
+219,baseline_source:219,0,train,a little less extreme than in the past with longer exposition sequences between them and with fewer gags to break the tedium 
+220,baseline_source:220,1,train,a funny triumphant and moving documentary 
+221,baseline_source:221,1,train,an entertaining mix of period drama and flat out farce that should please history fans 
+222,baseline_source:222,0,train,during the tuxedo is minutes of screen time there is nt one true chan moment 
+224,baseline_source:224,1,train,a series of tales told with the intricate preciseness of the best short story writing 
+225,baseline_source:225,1,train,a bright inventive thoroughly winning flight of revisionist fancy 
+226,baseline_source:226,0,train,almost peerlessly unsettling 
+227,baseline_source:227,1,train,a dashing and absorbing outing with one of france is most inventive directors 
+228,baseline_source:228,1,train,a true delight 
+229,baseline_source:229,0,train,complete lack of originality cleverness or even visible effort
+230,baseline_source:230,1,train,a few nonbelievers may rethink their attitudes when they see the joy the characters take in this creed but skeptics are nt likely to enter the theater 
+231,baseline_source:231,1,train,like the rugrats movies the wild thornberrys movie does nt offer much more than the series but its emphasis on caring for animals and respecting other cultures is particularly welcome 
+233,baseline_source:233,1,train,you feel good you feel sad you feel pissed off but in the end you feel alive which is what they did 
+234,baseline_source:234,0,train,director tom shadyac and star kevin costner glumly mishandle the story is promising premise of a physician who needs to heal himself 
+236,baseline_source:236,0,train,deadeningly dull mired in convoluted melodrama nonsensical jargon and stiff upper lip laboriousness 
+238,baseline_source:238,1,train,it can be safely recommended as a video dvd babysitter 
+239,baseline_source:239,0,train,it is played in the most straight faced fashion with little humor to lighten things up 
+240,baseline_source:240,1,train,though it goes further than both anyone who has seen the hunger or cat people will find little new here but a tasty performance from vincent gallo lifts this tale of cannibal lust above the ordinary 
+241,baseline_source:241,1,train,the rich performances by friel and especially williams an american actress who becomes fully english round out the square edges 
+242,baseline_source:242,0,train,amazingly lame 
+243,baseline_source:243,1,train,more good than great but freeman and judd make it work 
+244,baseline_source:244,0,train,a battle between bug eye theatre and dead eye matinee 
+245,baseline_source:245,0,train,i m sorry to say that this should seal the deal arnold is not nor will he be back 
+246,baseline_source:246,1,train,though jackson does nt always succeed in integrating the characters in the foreground into the extraordinarily rich landscape it must be said that he is an imaginative filmmaker who can see the forest for the trees 
+247,baseline_source:247,0,train,van wilder has a built in audience but only among those who are drying out from spring break and are still unconcerned about what they ingest 
+248,baseline_source:248,1,train,what sets ms birot is film apart from others in the genre is a greater attention to the parents and particularly the fateful fathers in the emotional evolution of the two bewitched adolescents 
+249,baseline_source:249,0,train,a sentimental mess that never rings true 
+250,baseline_source:250,1,train,but the talented cast alone will keep you watching as will the fight scenes 
+251,baseline_source:251,1,train,allen is underestimated charm delivers more goodies than lumps of coal 
+252,baseline_source:252,1,train,an elegant work food of love is as consistently engaging as it is revealing 
+253,baseline_source:253,1,train,zoom 
+254,baseline_source:254,1,train,a huge box office hit in korea shiri is a must for genre fans 
+255,baseline_source:255,1,train,it is a technically superb film shining with all the usual spielberg flair expertly utilizing the talents of his top notch creative team 
+256,baseline_source:256,1,train,what begins as a conventional thriller evolves into a gorgeously atmospheric meditation on life changing chance encounters 
+257,baseline_source:257,1,train,a film with a great premise but only a great premise 
+260,baseline_source:260,1,train,vincent gallo is right at home in this french shocker playing his usual bad boy weirdo role 
+261,baseline_source:261,1,train,very well written and directed with brutal honesty and respect for its audience 
+263,baseline_source:263,1,train,neither parker nor donovan is a typical romantic lead but they bring a fresh quirky charm to the formula 
+264,baseline_source:264,1,train,a giggle a minute 
+265,baseline_source:265,0,train,in the end the film feels homogenized and a bit contrived as if we re looking back at a tattered and ugly past with rose tinted glasses 
+266,baseline_source:266,1,train,an unusually dry eyed even analytical approach to material that is generally played for maximum moisture 
+267,baseline_source:267,1,train,it made me want to get made up and go see this movie with my sisters 
+268,baseline_source:268,0,train,neither revelatory nor truly edgy merely crassly flamboyant and comedically labored 
+269,baseline_source:269,1,train,boasts a handful of virtuosic set pieces and offers a fair amount of trashy kinky fun 
+270,baseline_source:270,0,train,i do nt mind having my heartstrings pulled but do nt treat me like a fool 
+271,baseline_source:271,1,train,this is a sincerely crafted picture that deserves to emerge from the traffic jam of holiday movies 
+272,baseline_source:272,0,train,an unintentionally surreal kid is picture in which actors in bad bear suits enact a sort of inter species parody of a vh behind the music episode 
+273,baseline_source:273,1,train,gay or straight kissing jessica stein is one of the greatest date movies in years 
+274,baseline_source:274,0,train,it looks good but it is essentially empty 
+275,baseline_source:275,1,train,and there is no way you wo nt be talking about the film once you exit the theater 
+276,baseline_source:276,0,train,much like robin williams death to smoochy has already reached its expiration date 
+277,baseline_source:277,1,train,if you love the music and i do its hard to imagine having more fun watching a documentary 
+278,baseline_source:278,0,train,a collage of clich s and a dim echo of allusions to other films 
+279,baseline_source:279,1,train,norton is magnetic as graham 
+280,baseline_source:280,1,train,k the widowmaker is a great yarn 
+281,baseline_source:281,1,train,it might be easier to watch on video at home but that should nt stop die hard french film connoisseurs from going out and enjoying the big screen experience 
+282,baseline_source:282,0,train,manages to be both repulsively sadistic and mundane 
+283,baseline_source:283,0,train,an obvious copy of one of the best films ever made how could it not be 
+285,baseline_source:285,1,train,the cat is meow marks a return to form for director peter bogdanovich 
+286,baseline_source:286,0,train,it is an odd show pregnant with moods stillborn except as a harsh conceptual exercise 
+287,baseline_source:287,0,train,but if the essence of magic is its make believe promise of life that soars above the material realm this is the opposite of a truly magical movie 
+288,baseline_source:288,0,train,the film is all over the place really 
+289,baseline_source:289,0,train,without any redeeming value whatsoever 
+290,baseline_source:290,1,train,it is a familiar story but one that is presented with great sympathy and intelligence 
+291,baseline_source:291,0,train,manages to show life in all of its banality when the intention is quite the opposite 
+292,baseline_source:292,1,train,read my lips is to be viewed and treasured for its extraordinary intelligence and originality as well as its lyrical variations on the game of love 
+293,baseline_source:293,0,train,this director is cut which adds minutes takes a great film and turns it into a mundane soap opera 
+294,baseline_source:294,1,train,the ensemble cast turns in a collectively stellar performance and the writing is tight and truthful full of funny situations and honest observations 
+295,baseline_source:295,1,train,what saves this deeply affecting film from being merely a collection of wrenching cases is corcuera is attention to detail 
+296,baseline_source:296,1,train,take nothing seriously and enjoy the ride 
+298,baseline_source:298,0,train,while the ensemble player who gained notice in guy ritchie is lock stock and two smoking barrels and snatch has the bod he is unlikely to become a household name on the basis of his first starring vehicle 
+299,baseline_source:299,0,train,i could nt help but feel the wasted potential of this slapstick comedy 
+300,baseline_source:300,1,train,it is an offbeat treat that pokes fun at the democratic exercise while also examining its significance for those who take part 
+301,baseline_source:301,0,train,nothing too deep or substantial 
+303,baseline_source:303,0,train,a boring parade of talking heads and technical gibberish that will do little to advance the linux cause 
+305,baseline_source:305,0,train,as pedestrian as they come 
+306,baseline_source:306,0,train,parents beware this is downright movie penance 
+307,baseline_source:307,0,train,really does feel like a short stretched out to feature length 
+308,baseline_source:308,0,train,no one but a convict guilty of some truly heinous crime should have to sit through the master of disguise 
+309,baseline_source:309,1,train,may take its sweet time to get wherever it is going but if you have the patience for it you wo nt feel like it is wasted yours 
+310,baseline_source:310,0,train,would ve been nice if the screenwriters had trusted audiences to understand a complex story and left off the film is predictable denouement 
+311,baseline_source:311,1,train,i am not generally a huge fan of cartoons derived from tv shows but hey arnold 
+312,baseline_source:312,1,train,brings to a spectacular completion one of the most complex generous and subversive artworks of the last decade 
+313,baseline_source:313,1,train,reveals how important our special talents can be when put in service of of others 
+314,baseline_source:314,1,train,the gags that fly at such a furiously funny pace that the only rip off that we were aware of was the one we felt when the movie ended so damned soon 
+315,baseline_source:315,1,train,more mature than fatal attraction more complete than indecent proposal and more relevant than weeks unfaithful is at once intimate and universal cinema 
+317,baseline_source:317,1,train,while somewhat less than it might have been the film is a good one and you ve got to hand it to director george clooney for biting off such a big job the first time out 
+319,baseline_source:319,1,train,cremaster is at once a tough pill to swallow and a minor miracle of self expression 
+320,baseline_source:320,1,train,this is human comedy at its most amusing interesting and confirming 
+321,baseline_source:321,1,train,a story we have nt seen on the big screen before and it is a story that we as americans and human beings should know 
+322,baseline_source:322,0,train,just about everyone involved here seems to be coasting 
+323,baseline_source:323,1,train,a tour de force of modern cinema 
+324,baseline_source:324,1,train,uplifting funny and wise 
+325,baseline_source:325,0,train,it is just merely very bad 
+326,baseline_source:326,1,train,it will guarantee to have you leaving the theater with a smile on your face 
+327,baseline_source:327,0,train,simplistic silly and tedious 
+329,baseline_source:329,1,train,thanks to confident filmmaking and a pair of fascinating performances the way to that destination is a really special walk in the woods 
+330,baseline_source:330,0,train,it is provocative stuff but the speculative effort is hampered by taylor is cartoonish performance and the film is ill considered notion that hitler is destiny was shaped by the most random of chances 
+331,baseline_source:331,0,train,the animation and game phenomenon that peaked about three years ago is actually dying a slow death if the poor quality of pokemon ever is any indication 
+332,baseline_source:332,1,train,the script is smart not cloying 
+333,baseline_source:333,0,train,a muddy psychological thriller rife with miscalculations 
+334,baseline_source:334,1,train,the wild thornberrys movie is a jolly surprise 
+335,baseline_source:335,1,train,land people and narrative flow together in a stark portrait of motherhood deferred and desire explored 
+336,baseline_source:336,0,train,unless there are zoning ordinances to protect your community from the dullest science fiction impostor is opening today at a theater near you 
+337,baseline_source:337,1,train,world traveler might not go anywhere new or arrive anyplace special but it is certainly an honest attempt to get at something 
+338,baseline_source:338,1,train,at once subtle and visceral the film never succumbs to the trap of the maudlin or tearful offering instead with its unflinching gaze a measure of faith in the future 
+339,baseline_source:339,1,train,years of russian history and culture compressed into an evanescent seamless and sumptuous stream of consciousness 
+340,baseline_source:340,0,train,the film is maudlin focus on the young woman is infirmity and her naive dreams play like the worst kind of hollywood heart string plucking 
+341,baseline_source:341,0,train,director uwe boll and the actors provide scant reason to care in this crude s throwback 
+342,baseline_source:342,1,train,intensely romantic thought provoking and even an engaging mystery 
+343,baseline_source:343,0,train,the characters are paper thin and the plot is so cliched and contrived that it makes your least favorite james bond movie seem as cleverly plotted as the usual suspects 
+344,baseline_source:344,1,train,de niro is a veritable source of sincere passion that this hollywood contrivance orbits around 
+346,baseline_source:346,1,train,it is a piece of handiwork that shows its indie tatters and self conscious seams in places but has some quietly moving moments and an intelligent subtlety 
+347,baseline_source:347,0,train,it is a barely tolerable slog over well trod ground 
+348,baseline_source:348,0,train,it is tough to tell which is in more abundant supply in this woefully hackneyed movie directed by scott kalvert about street gangs and turf wars in brooklyn stale cliches gratuitous violence or empty machismo 
+349,baseline_source:349,0,train,the script by vincent r nebrida tries to cram too many ingredients into one small pot 
+350,baseline_source:350,1,train,strangely comes off as a kingdom more mild than wild 
+351,baseline_source:351,0,train,thoroughly awful 
+352,baseline_source:352,1,train,a moving story of determination and the human spirit 
+353,baseline_source:353,1,train,a naturally funny film home movie makes you crave chris smith is next movie 
+354,baseline_source:354,0,train,the only question is to determine how well the schmaltz is manufactured to assess the quality of the manipulative engineering 
+355,baseline_source:355,0,train,the premise of abandon holds promise but its delivery is a complete mess 
+356,baseline_source:356,0,train,plays like one of those conversations that comic book guy on the simpsons has 
+357,baseline_source:357,0,train,in the book on tape market the film of the kid stays in the picture would be an abridged edition
+358,baseline_source:358,1,train,and educational 
+359,baseline_source:359,1,train,blisteringly rude scarily funny sorrowfully sympathetic to the damage it surveys the film has in kieran culkin a pitch perfect holden 
+360,baseline_source:360,0,train,to get at the root psychology of this film would require many sessions on the couch of dr freud 
+361,baseline_source:361,0,train,the young stars are too cute the story and ensuing complications are too manipulative the message is too blatant the resolutions are too convenient 
+363,baseline_source:363,1,train,not as good as the full monty but a really strong second effort 
+364,baseline_source:364,0,train,even bigger and more ambitious than the first installment spy kids looks as if it were made by a highly gifted year old instead of a grown man 
+365,baseline_source:365,0,train,includes too much obvious padding 
+367,baseline_source:367,0,train,we never truly come to care about the main characters and whether or not they ll wind up together and michele is spiritual quest is neither amusing nor dramatic enough to sustain interest 
+368,baseline_source:368,1,train,this is nt exactly profound cinema but it is good natured and sometimes quite funny 
+369,baseline_source:369,0,train,impostor ca nt think of a thing to do with these characters except have them run through dark tunnels fight off various anonymous attackers and evade elaborate surveillance technologies 
+370,baseline_source:370,0,train,and that leaves a hole in the center of the salton sea 
+371,baseline_source:371,1,train,chamber of secrets will find millions of eager fans 
+372,baseline_source:372,0,train,seagal ran out of movies years ago and this is just the proof 
+373,baseline_source:373,0,train,a movie like the guys is why film criticism can be considered work 
+374,baseline_source:374,1,train,as it turns out you can go home again 
+375,baseline_source:375,1,train,her performance moves between heartbreak and rebellion as she continually tries to accommodate to fit in and gain the unconditional love she seeks 
+376,baseline_source:376,0,train,a low rate annie featuring some kid who ca nt act only echoes of jordan and weirdo actor crispin glover screwing things up old school 
+377,baseline_source:377,1,train,rock solid family fun out of the gates extremely imaginative through out but wanes in the middle
+378,baseline_source:378,0,train,if you go pack your knitting needles 
+379,baseline_source:379,0,train,a technical triumph and an extraordinary bore 
+381,baseline_source:381,0,train,the comedy death to smoochy is a rancorous curiosity a movie without an apparent audience 
+382,baseline_source:382,1,train,the entire cast is extraordinarily good 
+383,baseline_source:383,1,train,hugh grant who has a good line in charm has never been more charming than in about a boy 
+384,baseline_source:384,1,train,delivers the sexy razzle dazzle that everyone especially movie musical fans has been hoping for 
+385,baseline_source:385,1,train,a gripping movie played with performances that are all understated and touching 
+386,baseline_source:386,0,train,hoffman waits too long to turn his movie in an unexpected direction and even then his tone retains a genteel prep school quality that feels dusty and leatherbound 
+387,baseline_source:387,1,train,an ambitious what if 
+388,baseline_source:388,1,train,uses high comedy to evoke surprising poignance 
+389,baseline_source:389,0,train,contains a few big laughs but many more that graze the funny bone or miss it altogether in part because the consciously dumbed down approach wears thin 
+390,baseline_source:390,1,train,the journey to the secret is eventual discovery is a separate adventure and thrill enough 
+391,baseline_source:391,1,train,it is one heck of a character study not of hearst or davies but of the unique relationship between them 
+392,baseline_source:392,1,train,a live wire film that never loses its ability to shock and amaze 
+393,baseline_source:393,1,train,a real audience pleaser that will strike a chord with anyone who is ever waited in a doctor is office emergency room hospital bed or insurance company office 
+394,baseline_source:394,0,train,there is no good answer to that one 
+395,baseline_source:395,0,train,the film contains no good jokes no good scenes barely a moment when carvey is saturday night live honed mimicry rises above the level of embarrassment 
+396,baseline_source:396,0,train,as inept as big screen remakes of the avengers and the wild wild west 
+397,baseline_source:397,0,train,it is difficult to feel anything much while watching this movie beyond mild disturbance or detached pleasure at the acting 
+398,baseline_source:398,0,train,almost as offensive as freddy got fingered 
+399,baseline_source:399,1,train,this is a shrewd and effective film from a director who understands how to create and sustain a mood 
+400,baseline_source:400,1,train,the bai brothers have taken an small slice of history and opened it up for all of us to understand and they ve told a nice little story in the process 
+401,baseline_source:401,1,train,knows how to make our imagination wonder 
+402,baseline_source:402,1,train,fear permeates the whole of stortelling todd solondz oftentimes funny yet ultimately cowardly autocritique 
+403,baseline_source:403,1,train,a cutesy romantic tale with a twist 
+404,baseline_source:404,0,train,violent vulgar and forgettably entertaining 
+405,baseline_source:405,1,train,though its story is only surface deep the visuals and enveloping sounds of blue crush make this surprisingly decent flick worth a summertime look see 
+406,baseline_source:406,1,train,sad to say it accurately reflects the rage and alienation that fuels the self destructiveness of many young people 
+407,baseline_source:407,0,train,an allegory concerning the chronically mixed signals african american professionals get about overachieving could be intriguing but the supernatural trappings only obscure the message 
+408,baseline_source:408,1,train,the film has the high buffed gloss and high octane jolts you expect of de palma but what makes it transporting is that it is also one of the smartest most pleasurable expressions of pure movie love to come from an american director in years 
+409,baseline_source:409,1,train,wonderful fencing scenes and an exciting plot make this an eminently engrossing film 
+410,baseline_source:410,1,train,if mostly martha is mostly unsurprising it is still a sweet even delectable diversion 
+411,baseline_source:411,1,train,one of the most slyly exquisite anti adult movies ever made 
+412,baseline_source:412,1,train,even when there are lulls the emotions seem authentic and the picture is so lovely toward the end you almost do nt notice the minute running time 
+413,baseline_source:413,0,train,comes across as a fairly weak retooling 
+414,baseline_source:414,0,train,time out is as serious as a pink slip 
+415,baseline_source:415,0,train,a depressingly retrograde post feminist romantic comedy that takes an astonishingly condescending attitude toward women 
+417,baseline_source:417,1,train,young hanks and fisk who vaguely resemble their celebrity parents bring fresh good looks and an ease in front of the camera to the work 
+418,baseline_source:418,0,train,if you re looking for a story do nt bother 
+419,baseline_source:419,1,train,the film is hard to dismiss moody thoughtful and lit by flashes of mordant humor 
+420,baseline_source:420,1,train,a deeply felt and vividly detailed story about newcomers in a strange new world 
+421,baseline_source:421,0,train,an ugly pointless stupid movie 
+422,baseline_source:422,0,train,to honestly address the flaws inherent in how medical aid is made available to american workers a more balanced or fair portrayal of both sides will be needed 
+424,baseline_source:424,1,train,a solid cast assured direction and complete lack of modern day irony 
+425,baseline_source:425,0,train,burns never really harnesses to full effect the energetic cast 
+426,baseline_source:426,1,train,the difference between cho and most comics is that her confidence in her material is merited 
+428,baseline_source:428,1,train,in between the icy stunts the actors spout hilarious dialogue about following your dream and just letting the mountain tell you what to do 
+429,baseline_source:429,0,train,in an effort i suspect not to offend by appearing either too serious or too lighthearted it offends by just being wishy washy 
+430,baseline_source:430,0,train,it all comes down to whether you can tolerate leon barlow 
+431,baseline_source:431,0,train,starts promisingly but disintegrates into a dreary humorless soap opera 
+433,baseline_source:433,1,train,the vitality of the actors keeps the intensity of the film high even as the strafings blend together 
+434,baseline_source:434,1,train,a true blue delight 
+436,baseline_source:436,1,train,well acted well directed and for all its moodiness not too pretentious 
+437,baseline_source:437,0,train,adrift bentley and hudson stare and sniffle respectively as ledger attempts in vain to prove that movie star intensity can overcome bad hair design 
+438,baseline_source:438,0,train,it is so downbeat and nearly humorless that it becomes a chore to sit through despite some first rate performances by its lead 
+439,baseline_source:439,0,train,you leave feeling like you ve endured a long workout without your pulse ever racing 
+440,baseline_source:440,1,train,a poignant artfully crafted meditation on mortality 
+442,baseline_source:442,1,train,a dreadful day in irish history is given passionate if somewhat flawed treatment 
+443,baseline_source:443,1,train,the pleasure of read my lips is like seeing a series of perfect black pearls clicking together to form a string 
+444,baseline_source:444,1,train,overcomes its visual hideousness with a sharp script and strong performances 
+445,baseline_source:445,0,train,just too silly and sophomoric to ensnare its target audience 
+446,baseline_source:446,1,train,if it is not entirely memorable the movie is certainly easy to watch 
+447,baseline_source:447,1,train,if you can push on through the slow spots you ll be rewarded with some fine acting 
+448,baseline_source:448,0,train,it is too bad that this likable movie is nt more accomplished 
+449,baseline_source:449,1,train,tadpole may be one of the most appealing movies ever made about an otherwise appalling and downright creepy subject a teenage boy in love with his stepmother 
+450,baseline_source:450,0,train,it just goes to show an intelligent person is nt necessarily an admirable storyteller 
+452,baseline_source:452,1,train,the story is a rather simplistic one grief drives her love drives him and a second chance to find love in the most unlikely place it struck a chord in me 
+453,baseline_source:453,0,train,plays like a glossy melodrama that occasionally verges on camp 
+454,baseline_source:454,0,train,as aimless as an old pickup skidding completely out of control on a long patch of black ice the movie makes two hours feel like four 
+455,baseline_source:455,1,train,a searing epic treatment of a nationwide blight that seems to be horrifyingly ever on the rise 
+456,baseline_source:456,0,train,what soured me on the santa clause was that santa bumps up against st century reality so hard it is icky 
+457,baseline_source:457,1,train,as quiet patient and tenacious as mr lopez himself who approaches his difficult endless work with remarkable serenity and discipline 
+458,baseline_source:458,0,train,shallow noisy and pretentious 
+459,baseline_source:459,1,train,a light yet engrossing piece 
+460,baseline_source:460,0,train,my only wish is that celebi could take me back to a time before i saw this movie and i could just skip it 
+461,baseline_source:461,0,train,it is one pussy ass world when even killer thrillers revolve around group therapy sessions 
+462,baseline_source:462,1,train,infidelity drama is nicely shot well edited and features a standout performance by diane lane 
+463,baseline_source:463,0,train,rarely has sex on screen been so aggressively anti erotic 
+464,baseline_source:464,1,train,there is enough originality in life to distance it from the pack of paint by number romantic comedies that so often end up on cinema screens 
+465,baseline_source:465,0,train,a movie that quite simply should nt have been made 
+466,baseline_source:466,1,train,further proof that the epicenter of cool beautiful thought provoking foreign cinema is smack dab in the middle of dubya is axis of evil 
+467,baseline_source:467,1,train,writer director david jacobson and his star jeremy renner have made a remarkable film that explores the monster is psychology not in order to excuse him but rather to demonstrate that his pathology evolved from human impulses that grew hideously twisted 
+468,baseline_source:468,1,train,will amuse and provoke adventurous adults in specialty venues 
+469,baseline_source:469,0,train,just a kiss is a just a waste 
+470,baseline_source:470,1,train,a muddle splashed with bloody beauty as vivid as any scorsese has ever given us 
+471,baseline_source:471,0,train,a zippy minutes of mediocre special effects hoary dialogue fluxing accents and worst of all silly looking morlocks 
+472,baseline_source:472,1,train,as a girl meets girl romantic comedy kissing jessica steinis quirky charming and often hilarious 
+473,baseline_source:473,1,train,the overall fabric is hypnotic and mr mattei fosters moments of spontaneous intimacy 
+474,baseline_source:474,0,train,men in black ii achieves ultimate insignificance it is the sci fi comedy spectacle as whiffle ball epic 
+476,baseline_source:476,0,train,nothing but an episode of smackdown 
+477,baseline_source:477,1,train,the stunt work is top notch the dialogue and drama often food spittingly funny 
+478,baseline_source:478,1,train,family fare 
+479,baseline_source:479,1,train,using a stock plot about a boy injects just enough freshness into the proceedings to provide an enjoyable minutes in a movie theater 
+480,baseline_source:480,0,train,in other words it is badder than bad 
+481,baseline_source:481,0,train,the movie is almost completely lacking in suspense surprise and consistent emotional conviction 
+483,baseline_source:483,0,train,there is only one way to kill michael myers for good stop buying tickets to these movies 
+484,baseline_source:484,1,train,washington overcomes the script is flaws and envelops the audience in his character is anguish anger and frustration 
+485,baseline_source:485,0,train,so we got ten little indians meets friday the th by way of clean and sober filmed on the set of carpenter is the thing and loaded with actors you re most likely to find on the next inevitable incarnation of the love boat 
+486,baseline_source:486,0,train,confirms the nagging suspicion that ethan hawke would be even worse behind the camera than he is in front of it 
+487,baseline_source:487,0,train,one of the more glaring signs of this movie is servitude to its superstar is the way it skirts around any scenes that might have required genuine acting from ms spears 
+488,baseline_source:488,0,train,for all its shoot outs fistfights and car chases this movie is a phlegmatic bore so tedious it makes the silly spy vs spy film the sum of all fears starring ben affleck seem downright hitchcockian 
+489,baseline_source:489,0,train,the only fun part of the movie is playing the obvious game 
+490,baseline_source:490,0,train,plays like the old disease of the week small screen melodramas 
+491,baseline_source:491,0,train,the cumulative effect of the movie is repulsive and depressing 
+492,baseline_source:492,1,train,while we no longer possess the lack of attention span that we did at seventeen we had no trouble sitting for blade ii 
+493,baseline_source:493,1,train,a surprisingly sweet and gentle comedy 
+494,baseline_source:494,1,train,an elegant film with often surprising twists and an intermingling of naivet and sophistication 
+495,baseline_source:495,0,train,for each chuckle there are at least complete misses many coming from the amazingly lifelike tara reid whose acting skills are comparable to a cardboard cutout 
+496,baseline_source:496,1,train,polished well structured film 
+497,baseline_source:497,1,train,a movie that will surely be profane politically charged music to the ears of cho is fans 
+498,baseline_source:498,1,train,most consumers of lo mein and general tso is chicken barely give a thought to the folks who prepare and deliver it so hopefully this film will attach a human face to all those little steaming cartons 
+499,baseline_source:499,0,train,movies like high crimes flog the dead horse of surprise as if it were an obligation 
+3,baseline_source:3,0,validation,the only way to tolerate this insipid brutally clueless film might be with a large dose of painkillers 
+6,baseline_source:6,1,validation,pure cinematic intoxication a wildly inventive mixture of comedy and melodrama tastelessness and swooning elegance 
+13,baseline_source:13,1,validation,isabelle huppert excels as the enigmatic mika and anna mouglalis is a stunning new young talent in one of chabrol is most intense psychological mysteries 
+20,baseline_source:20,1,validation,uneven but a lot of fun 
+29,baseline_source:29,0,validation,has all the hallmarks of a movie designed strictly for children is home video a market so insatiable it absorbs all manner of lame entertainment as long as year olds find it diverting 
+38,baseline_source:38,0,validation,cassavetes thinks he is making dog day afternoon with a cause but all he is done is to reduce everything he touches to a shrill didactic cartoon 
+85,baseline_source:85,1,validation,it is both degrading and strangely liberating to see people working so hard at leading lives of sexy intrigue only to be revealed by the dispassionate gantz brothers as ordinary pasty lumpen 
+90,baseline_source:90,1,validation,with an unflappable air of decadent urbanity everett remains a perfect wildean actor and a relaxed firth displays impeccable comic skill 
+97,baseline_source:97,0,validation,despite the fact that this film was nt as bad as i thought it was going to be it is still not a good movie
+128,baseline_source:128,0,validation,a terrible adaptation of a play that only ever walked the delicate tightrope between farcical and loathsome 
+132,baseline_source:132,0,validation,the movie ends with outtakes in which most of the characters forget their lines and just utter uhhh which is better than most of the writing in the movie 
+138,baseline_source:138,1,validation,it sends you away a believer again and quite cheered at just that 
+162,baseline_source:162,0,validation,just not campy enough
+174,baseline_source:174,0,validation,director douglas mcgrath takes on nickleby with all the halfhearted zeal of an th grade boy delving into required reading 
+177,baseline_source:177,1,validation,it haunts you you ca nt forget it you admire its conception and are able to resolve some of the confusions you had while watching it 
+184,baseline_source:184,0,validation,it does nt flinch from its unsettling prognosis namely that the legacy of war is a kind of perpetual pain 
+189,baseline_source:189,0,validation,collapses under its own meager weight 
+190,baseline_source:190,0,validation,quitting however manages just to be depressing as the lead actor phones in his autobiographical performance 
+193,baseline_source:193,0,validation,suspend your disbelief here and now or you ll be shaking your head all the way to the credits 
+201,baseline_source:201,1,validation,not everything in this ambitious comic escapade works but coppola along with his sister sofia is a real filmmaker 
+214,baseline_source:214,1,validation,translating complex characters from novels to the big screen is an impossible task but they are true to the essence of what it is to be ya ya 
+218,baseline_source:218,0,validation,starts as a tart little lemon drop of a movie and ends up as a bitter pill 
+223,baseline_source:223,1,validation,there is just something about watching a squad of psychopathic underdogs whale the tar out of unsuspecting lawmen that reaches across time and distance 
+232,baseline_source:232,0,validation,borstal boy represents the worst kind of filmmaking the kind that pretends to be passionate and truthful but is really frustratingly timid and soggy 
+235,baseline_source:235,1,validation,as relationships shift director robert j siegel allows the characters to inhabit their world without cleaving to a narrative arc 
+237,baseline_source:237,1,validation,jacquot has filmed the opera exactly as the libretto directs ideally capturing the opera is drama and lyricism 
+258,baseline_source:258,1,validation,on that score the film certainly does nt disappoint 
+259,baseline_source:259,1,validation,the acting costumes music cinematography and sound are all astounding given the production is austere locales 
+262,baseline_source:262,0,validation,one senses in world traveler and in his earlier film that freundlich bears a grievous but obscure complaint against fathers and circles it obsessively without making contact 
+284,baseline_source:284,1,validation,surprisingly the film is a hilarious adventure and i shamelessly enjoyed it 
+297,baseline_source:297,1,validation,from the opening strains of the average white band is pick up the pieces you can feel the love 
+302,baseline_source:302,0,validation,this picture is mostly a lump of run of the mill profanity sprinkled with a few remarks so geared toward engendering audience sympathy that you might think he was running for office or trying to win over a probation officer 
+304,baseline_source:304,0,validation,the problem with the mayhem in formula is not that it is offensive but that it is boring 
+316,baseline_source:316,1,validation,it is fairly solid not to mention well edited so that it certainly does nt feel like a film that strays past the two and a half mark 
+318,baseline_source:318,1,validation,routine harmless diversion and little else 
+328,baseline_source:328,1,validation,passions obsessions and loneliest dark spots are pushed to their most virtuous limits lending the narrative an unusually surreal tone 
+345,baseline_source:345,1,validation,jonathan parker is bartleby should have been the be all end all of the modern office anomie films 
+362,baseline_source:362,1,validation,davis candid archly funny and deeply authentic take on intimate relationships comes to fruition in her sophomore effort 
+366,baseline_source:366,0,validation,the story alone could force you to scratch a hole in your head 
+380,baseline_source:380,0,validation,if you re not fans of the adventues of steve and terri you should avoid this like the dreaded king brown snake 
+416,baseline_source:416,0,validation,you might want to take a reality check before you pay the full ticket price to see simone and consider a dvd rental instead 
+423,baseline_source:423,1,validation,the very definition of the small movie but it is a good stepping stone for director sprecher 
+427,baseline_source:427,1,validation,like its bizarre heroine it irrigates our souls 
+432,baseline_source:432,1,validation,there is enough cool fun here to warm the hearts of animation enthusiasts of all ages 
+435,baseline_source:435,0,validation,despite auteuil is performance it is a rather listless amble down the middle of the road where the thematic ironies are too obvious and the sexual politics too smug 
+441,baseline_source:441,0,validation,there is a scientific law to be discerned here that producers would be well to heed mediocre movies start to drag as soon as the action speeds up when the explosions start they fall to pieces 
+451,baseline_source:451,1,validation,if ayurveda can help us return to a sane regimen of eating sleeping and stress reducing contemplation it is clearly a good thing 
+475,baseline_source:475,0,validation,at best cletis tout might inspire a trip to the video store in search of a better movie experience 
+482,baseline_source:482,1,validation,another love story in is remarkable procession of sweeping pictures that have reinvigorated the romance genre 
+500,baseline_source:500,0,validation,a timid soggy near miss 
