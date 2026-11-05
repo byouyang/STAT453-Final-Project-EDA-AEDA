@@ -1,0 +1,23 @@
+comparison,normalization,unique_text_overlap,action
+original_500_sources_vs_test_before_filter,canonical,0,excluded from baseline source pool before split
+original_500_sources_vs_test_before_filter,punctuation_insensitive,0,excluded from baseline source pool before split
+official_aeda_sources_vs_test_before_filter,canonical,2,excluded before AEDA sampling
+official_aeda_sources_vs_test_before_filter,punctuation_insensitive,2,excluded before AEDA sampling
+official_aeda_sources_vs_validation_before_filter,canonical,1,excluded before AEDA sampling
+official_aeda_sources_vs_validation_before_filter,punctuation_insensitive,30,excluded before AEDA sampling
+baseline_train_vs_validation,canonical,0,must be zero
+baseline_train_vs_validation,punctuation_insensitive,0,must be zero
+validation_vs_test,canonical,0,must be zero
+validation_vs_test,punctuation_insensitive,0,must be zero
+eda_train_vs_validation,canonical,0,must be zero
+eda_train_vs_validation,punctuation_insensitive,0,must be zero
+eda_train_vs_test,canonical,0,must be zero
+eda_train_vs_test,punctuation_insensitive,0,must be zero
+aeda_train_vs_validation,canonical,0,must be zero
+aeda_train_vs_validation,punctuation_insensitive,0,must be zero
+aeda_train_vs_test,canonical,0,must be zero
+aeda_train_vs_test,punctuation_insensitive,0,must be zero
+sequential_train_vs_validation,canonical,0,must be zero
+sequential_train_vs_validation,punctuation_insensitive,0,must be zero
+sequential_train_vs_test,canonical,0,must be zero
+sequential_train_vs_test,punctuation_insensitive,0,must be zero

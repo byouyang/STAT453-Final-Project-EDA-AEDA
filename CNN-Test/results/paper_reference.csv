@@ -1,0 +1,3 @@
+model,n_500_pct,n_2000_pct,n_5000_pct,full_pct,scope,source
+CNN without EDA,78.6,85.6,87.7,88.3,Average across five text-classification tasks; five random seeds.,"Wei & Zou (2019), Table 2, https://aclanthology.org/D19-1670.pdf"
+CNN with EDA,80.7,86.4,88.3,88.8,Average across five text-classification tasks; five random seeds.,"Wei & Zou (2019), Table 2, https://aclanthology.org/D19-1670.pdf"

@@ -1,0 +1,14 @@
+dataset,split,samples,label_0,label_1
+Baseline,candidate_original_sources,500,244,256
+Baseline,train,450,220,230
+Common,validation,50,24,26
+EDA,candidate_before_split,3000,1464,1536
+EDA,eligible_after_split_and_overlap_checks,2700,1320,1380
+EDA,train,2700,1320,1380
+AEDA,candidate,3000,1464,1536
+AEDA,eligible_after_overlap_checks,3000,1464,1536
+AEDA,train,2700,1320,1380
+EDA → AEDA,candidate_before_split,3000,1464,1536
+EDA → AEDA,eligible_after_split_and_overlap_checks,2700,1320,1380
+EDA → AEDA,train,2700,1320,1380
+Common,test,1821,912,909

@@ -1,0 +1,7 @@
+punctuation_token,count_in_aeda_train,count_in_sequential_train,in_shared_vocabulary,has_glove_vector
+.,4935,1236,True,True
+",",4058,1222,True,True
+!,1685,1189,True,True
+?,1682,1256,True,True
+;,1614,1254,True,True
+:,1794,1226,True,True

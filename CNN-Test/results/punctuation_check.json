@@ -1,0 +1,57 @@
+{
+  "tokenizer_probe": "this movie ! is really , good",
+  "tokens": [
+    "this",
+    "movie",
+    "!",
+    "is",
+    "really",
+    ",",
+    "good"
+  ],
+  "both_exclamation_and_comma_preserved": true,
+  "punctuation_vector_rows": [
+    {
+      "punctuation_token": ".",
+      "count_in_aeda_train": 4935,
+      "count_in_sequential_train": 1236,
+      "in_shared_vocabulary": true,
+      "has_glove_vector": true
+    },
+    {
+      "punctuation_token": ",",
+      "count_in_aeda_train": 4058,
+      "count_in_sequential_train": 1222,
+      "in_shared_vocabulary": true,
+      "has_glove_vector": true
+    },
+    {
+      "punctuation_token": "!",
+      "count_in_aeda_train": 1685,
+      "count_in_sequential_train": 1189,
+      "in_shared_vocabulary": true,
+      "has_glove_vector": true
+    },
+    {
+      "punctuation_token": "?",
+      "count_in_aeda_train": 1682,
+      "count_in_sequential_train": 1256,
+      "in_shared_vocabulary": true,
+      "has_glove_vector": true
+    },
+    {
+      "punctuation_token": ";",
+      "count_in_aeda_train": 1614,
+      "count_in_sequential_train": 1254,
+      "in_shared_vocabulary": true,
+      "has_glove_vector": true
+    },
+    {
+      "punctuation_token": ":",
+      "count_in_aeda_train": 1794,
+      "count_in_sequential_train": 1226,
+      "in_shared_vocabulary": true,
+      "has_glove_vector": true
+    }
+  ]
+}
